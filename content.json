@@ -162,10 +162,22 @@
     "story": "Founded in 2020, Arose Window Cleaning has been transforming properties across the Sunshine Coast with our professional, meticulous approach to window cleaning.",
     "mission": "To provide exceptional window cleaning services that enhance the appearance and value of residential and commercial properties.",
     "values": [
-      "Quality Workmanship",
-      "Customer Satisfaction",
-      "Environmental Responsibility",
-      "Professional Integrity"
+      {
+        "title": "Quality Workmanship",
+        "description": "We are committed to quality workmanship."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "We are committed to customer satisfaction."
+      },
+      {
+        "title": "Environmental Responsibility",
+        "description": "We are committed to environmental responsibility."
+      },
+      {
+        "title": "Professional Integrity",
+        "description": "We are committed to professional integrity."
+      }
     ],
     "features": [
       "10+ Years Combined Experience",
