@@ -1,0 +1,227 @@
+{
+  "business": {
+    "name": "Arose Window Cleaning",
+    "tagline": "Crystal Clear Views, Spotless Results",
+    "phone": "0406880311",
+    "email": "anthonyrose.win@gmail.com",
+    "address": "Sunshine Coast, QLD",
+    "suburb": "Sunshine Coast",
+    "city": "Sunshine Coast",
+    "state": "QLD",
+    "postcode": "4560",
+    "country": "Australia",
+    "service": "Window Cleaning",
+    "serviceSlug": "window-cleaning",
+    "abn": "65738291045",
+    "established": 2020,
+    "openingHours": {
+      "monday": "8:00 AM - 5:00 PM",
+      "tuesday": "8:00 AM - 5:00 PM",
+      "wednesday": "8:00 AM - 5:00 PM",
+      "thursday": "8:00 AM - 5:00 PM",
+      "friday": "8:00 AM - 5:00 PM",
+      "saturday": "8:00 AM - 12:00 PM",
+      "sunday": "Closed"
+    },
+    "socialMedia": {
+      "facebook": "https://facebook.com/arosecleaningqld",
+      "instagram": "https://instagram.com/arosecleaningqld",
+      "linkedin": ""
+    }
+  },
+  "services": [
+    {
+      "title": "Residential Window Cleaning",
+      "slug": "residential-window-cleaning",
+      "shortDescription": "Professional home window cleaning for sparkling results",
+      "description": "Comprehensive residential window cleaning service covering all types of windows, frames, and sills. We use eco-friendly solutions and professional equipment to deliver streak-free, crystal-clear windows.",
+      "price": "$249 - $499",
+      "duration": "2-4 hours",
+      "icon": "home-window-icon.svg",
+      "features": [
+        "Interior and exterior window cleaning",
+        "Frame and sill cleaning",
+        "Screen cleaning",
+        "Eco-friendly solutions"
+      ],
+      "image": "https://images.unsplash.com/photo-1558969763-e138be26547d"
+    },
+    {
+      "title": "Commercial Window Cleaning",
+      "slug": "commercial-window-cleaning",
+      "shortDescription": "Professional cleaning for business and commercial spaces",
+      "description": "Specialized commercial window cleaning services for offices, retail spaces, and industrial buildings. We ensure a professional, spotless finish that enhances your business image.",
+      "price": "$499 - $1,499",
+      "duration": "4-8 hours",
+      "icon": "commercial-window-icon.svg",
+      "features": [
+        "High-rise window cleaning",
+        "Large commercial spaces",
+        "Flexible scheduling",
+        "Safety certified technicians"
+      ],
+      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f"
+    },
+    {
+      "title": "Solar Panel Window Cleaning",
+      "slug": "solar-panel-window-cleaning",
+      "shortDescription": "Specialized cleaning for solar panels and glass surfaces",
+      "description": "Maximize your solar panel efficiency with our specialized cleaning service. We remove dirt, dust, and grime to ensure optimal solar performance.",
+      "price": "$199 - $399",
+      "duration": "1-3 hours",
+      "icon": "solar-panel-icon.svg",
+      "features": [
+        "Solar panel cleaning",
+        "Increase energy efficiency",
+        "Gentle, non-abrasive cleaning",
+        "Performance optimization"
+      ],
+      "image": "https://images.unsplash.com/photo-1532601224476-15c79f2f7ffa"
+    }
+  ],
+  "serviceAreas": [
+    {
+      "name": "Maroochydore",
+      "slug": "maroochydore-window-cleaning",
+      "description": "Comprehensive window cleaning services for Maroochydore residents and businesses"
+    },
+    {
+      "name": "Noosa",
+      "slug": "noosa-window-cleaning",
+      "description": "Professional window cleaning solutions for Noosa's residential and commercial properties"
+    },
+    {
+      "name": "Caloundra",
+      "slug": "caloundra-window-cleaning",
+      "description": "Expert window cleaning services covering all of Caloundra's diverse property types"
+    }
+  ],
+  "team": [
+    {
+      "name": "Anthony Rose",
+      "role": "Founder & Lead Technician",
+      "bio": "With 10 years of professional cleaning experience, Anthony leads Arose Window Cleaning with a commitment to quality and customer satisfaction.",
+      "image": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1",
+      "specialties": [
+        "Residential Cleaning",
+        "High-Rise Techniques",
+        "Eco-Friendly Solutions"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah Thompson",
+      "location": "Maroochydore",
+      "text": "Amazing service! My windows have never looked so clean. Highly recommended.",
+      "rating": 5,
+      "service": "Residential Window Cleaning",
+      "date": "2023-05-15"
+    },
+    {
+      "name": "Mike Roberts",
+      "location": "Noosa",
+      "text": "Professional, punctual, and delivered exceptional results for our office windows.",
+      "rating": 5,
+      "service": "Commercial Window Cleaning",
+      "date": "2023-06-22"
+    },
+    {
+      "name": "Emma Clarke",
+      "location": "Caloundra",
+      "text": "Fantastic solar panel cleaning. Noticed an immediate improvement in energy output.",
+      "rating": 5,
+      "service": "Solar Panel Cleaning",
+      "date": "2023-07-10"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How often should I get my windows cleaned?",
+      "answer": "We recommend professional window cleaning every 3-6 months, depending on your location and environment."
+    },
+    {
+      "question": "Do you use eco-friendly cleaning solutions?",
+      "answer": "Yes, we use environmentally friendly, biodegradable cleaning solutions that are safe for your family and pets."
+    },
+    {
+      "question": "Are your technicians insured?",
+      "answer": "Absolutely. All our technicians are fully insured and undergo rigorous safety training."
+    },
+    {
+      "question": "How long does a typical window cleaning service take?",
+      "answer": "Residential cleaning usually takes 2-4 hours, while commercial jobs can vary based on property size."
+    },
+    {
+      "question": "Do you offer free quotes?",
+      "answer": "Yes, we provide free, no-obligation quotes for all our window cleaning services."
+    }
+  ],
+  "about": {
+    "title": "Sunshine Coast's Premier Window Cleaning Specialists",
+    "story": "Founded in 2020, Arose Window Cleaning has been transforming properties across the Sunshine Coast with our professional, meticulous approach to window cleaning.",
+    "mission": "To provide exceptional window cleaning services that enhance the appearance and value of residential and commercial properties.",
+    "values": [
+      "Quality Workmanship",
+      "Customer Satisfaction",
+      "Environmental Responsibility",
+      "Professional Integrity"
+    ],
+    "features": [
+      "10+ Years Combined Experience",
+      "Fully Insured Technicians",
+      "Eco-Friendly Solutions",
+      "Advanced Cleaning Techniques"
+    ]
+  },
+  "gallery": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1502005229762-cf1the20d",
+      "alt": "Professional Window Cleaning",
+      "category": "Residential"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1580130544977-da0d9f14e5a",
+      "alt": "Commercial Window Cleaning",
+      "category": "Commercial"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1590856029620-9b5a4825d3",
+      "alt": "Solar Panel Cleaning",
+      "category": "Solar"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1581579186913-45ac25414c",
+      "alt": "Window Cleaning Team",
+      "category": "Team"
+    }
+  ],
+  "seo": {
+    "siteName": "Arose Window Cleaning",
+    "siteUrl": "https://arosecleaningqld.com.au",
+    "title": "Sunshine Coast Window Cleaning Experts | Arose Cleaning",
+    "description": "Professional window cleaning services in Sunshine Coast. Residential, commercial, and solar panel cleaning. Eco-friendly solutions, fully insured technicians.",
+    "keywords": [
+      "window cleaning",
+      "Sunshine Coast window cleaning",
+      "residential window cleaning",
+      "commercial window cleaning",
+      "solar panel cleaning"
+    ]
+  },
+  "schema": {
+    "type": "LocalBusiness",
+    "priceRange": "$$"
+  },
+  "colors": {
+    "primary": "#2196F3",
+    "primaryLight": "#64B5F6",
+    "secondary": "#F44336",
+    "accent": "#4CAF50"
+  },
+  "cta": {
+    "primary": "Get a Free Quote",
+    "secondary": "Call Now",
+    "consultation": "Free Consultation"
+  }
+}
