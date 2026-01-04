@@ -1,224 +1,343 @@
 {
   "business": {
     "name": "Arose Window Cleaning",
-    "tagline": "Crystal Clear Views, Spotless Results",
-    "phone": "0406880311",
-    "email": "anthonyrose.win@gmail.com",
-    "address": "Sunshine Coast, QLD",
-    "suburb": "Sunshine Coast",
-    "city": "Sunshine Coast",
+    "tagline": "Brisbane's Premier Window Cleaning - Crystal Clear Results Guaranteed",
+    "phone": "0400 123 456",
+    "email": "info@arosewindowcleaning.com.au",
+    "address": "123 Main Street, Brisbane",
+    "suburb": "Brisbane",
+    "city": "Brisbane",
     "state": "QLD",
-    "postcode": "4560",
+    "postcode": "4000",
     "country": "Australia",
     "service": "Window Cleaning",
     "serviceSlug": "window-cleaning",
-    "abn": "65738291045",
-    "established": 2020,
+    "abn": "12 345 678 901",
+    "established": 2019,
     "openingHours": {
-      "monday": "8:00 AM - 5:00 PM",
-      "tuesday": "8:00 AM - 5:00 PM",
-      "wednesday": "8:00 AM - 5:00 PM",
-      "thursday": "8:00 AM - 5:00 PM",
-      "friday": "8:00 AM - 5:00 PM",
-      "saturday": "8:00 AM - 12:00 PM",
+      "monday": "7:00 AM - 5:00 PM",
+      "tuesday": "7:00 AM - 5:00 PM",
+      "wednesday": "7:00 AM - 5:00 PM",
+      "thursday": "7:00 AM - 5:00 PM",
+      "friday": "7:00 AM - 5:00 PM",
+      "saturday": "8:00 AM - 2:00 PM",
       "sunday": "Closed"
     },
     "socialMedia": {
-      "facebook": "https://facebook.com/arosecleaningqld",
-      "instagram": "https://instagram.com/arosecleaningqld",
-      "google": ""
+      "facebook": "https://facebook.com/arosewindowcleaning",
+      "instagram": "https://instagram.com/arosewindowcleaning",
+      "google": "https://g.page/arosewindowcleaning"
     }
   },
   "services": [
     {
       "title": "Residential Window Cleaning",
       "slug": "residential-window-cleaning",
-      "shortDescription": "Professional home window cleaning for sparkling results",
-      "description": "Comprehensive residential window cleaning service covering all types of windows, frames, and sills. We use eco-friendly solutions and professional equipment to deliver streak-free, crystal-clear windows.",
-      "price": "$249 - $499",
-      "duration": "2-4 hours",
-      "icon": "home-window-icon.svg",
+      "shortDescription": "Crystal clear windows for your home",
+      "description": "Professional window cleaning for homes of all sizes. We use purified water and eco-friendly solutions to leave your windows sparkling clean without streaks or residue. Inside and outside cleaning available.",
+      "price": "From $150",
+      "duration": "2-3 hours",
+      "icon": "home",
       "features": [
-        "Interior and exterior window cleaning",
-        "Frame and sill cleaning",
-        "Screen cleaning",
-        "Eco-friendly solutions"
+        "Inside & outside cleaning",
+        "Streak-free results",
+        "Screen cleaning included",
+        "Track & sill cleaning"
       ],
-      "image": "https://images.unsplash.com/photo-1558969763-e138be26547d"
+      "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800&h=600&fit=crop"
     },
     {
       "title": "Commercial Window Cleaning",
       "slug": "commercial-window-cleaning",
-      "shortDescription": "Professional cleaning for business and commercial spaces",
-      "description": "Specialized commercial window cleaning services for offices, retail spaces, and industrial buildings. We ensure a professional, spotless finish that enhances your business image.",
-      "price": "$499 - $1,499",
-      "duration": "4-8 hours",
-      "icon": "commercial-window-icon.svg",
+      "shortDescription": "Professional cleaning for businesses",
+      "description": "Keep your business looking professional with our commercial window cleaning services. We service offices, retail stores, restaurants, and multi-story buildings with minimal disruption to your operations.",
+      "price": "From $200",
+      "duration": "Varies",
+      "icon": "building",
       "features": [
-        "High-rise window cleaning",
-        "Large commercial spaces",
         "Flexible scheduling",
-        "Safety certified technicians"
+        "Minimal disruption",
+        "Regular maintenance plans",
+        "Safety certified"
       ],
-      "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f"
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
     },
     {
-      "title": "Solar Panel Window Cleaning",
-      "slug": "solar-panel-window-cleaning",
-      "shortDescription": "Specialized cleaning for solar panels and glass surfaces",
-      "description": "Maximize your solar panel efficiency with our specialized cleaning service. We remove dirt, dust, and grime to ensure optimal solar performance.",
-      "price": "$199 - $399",
-      "duration": "1-3 hours",
-      "icon": "solar-panel-icon.svg",
+      "title": "High-Rise Window Cleaning",
+      "slug": "high-rise-window-cleaning",
+      "shortDescription": "Expert cleaning for multi-story buildings",
+      "description": "Specialized high-rise window cleaning using rope access and elevated work platforms. Our team is fully certified and insured for working at heights. We service apartment complexes, office towers, and commercial buildings.",
+      "price": "Quote required",
+      "duration": "Varies",
+      "icon": "building",
       "features": [
-        "Solar panel cleaning",
-        "Increase energy efficiency",
-        "Gentle, non-abrasive cleaning",
-        "Performance optimization"
+        "Rope access certified",
+        "Fully insured",
+        "Safety compliant",
+        "Regular schedules available"
       ],
-      "image": "https://images.unsplash.com/photo-1532601224476-15c79f2f7ffa"
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Solar Panel Cleaning",
+      "slug": "solar-panel-cleaning",
+      "shortDescription": "Maximize your solar efficiency",
+      "description": "Dirty solar panels can lose up to 30% efficiency. Our specialized solar panel cleaning service uses purified water and soft brushes to safely clean your panels without damage, maximizing your energy production.",
+      "price": "From $100",
+      "duration": "1-2 hours",
+      "icon": "sun",
+      "features": [
+        "Improves efficiency",
+        "Safe cleaning methods",
+        "No harsh chemicals",
+        "Before/after inspection"
+      ],
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Pressure Washing",
+      "slug": "pressure-washing",
+      "shortDescription": "Deep cleaning for outdoor surfaces",
+      "description": "Restore your driveways, patios, decks, and building exteriors to like-new condition. Our professional pressure washing removes dirt, mold, mildew, and stains that regular cleaning can't touch.",
+      "price": "From $200",
+      "duration": "2-4 hours",
+      "icon": "water",
+      "features": [
+        "Driveways & paths",
+        "Decks & patios",
+        "Building exteriors",
+        "Mold & mildew removal"
+      ],
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76c7d1b3?w=800&h=600&fit=crop"
+    },
+    {
+      "title": "Gutter Cleaning",
+      "slug": "gutter-cleaning",
+      "shortDescription": "Protect your home from water damage",
+      "description": "Clogged gutters can cause serious water damage to your home. We safely remove leaves, debris, and blockages from your gutters and downpipes, ensuring proper water flow and protecting your property.",
+      "price": "From $150",
+      "duration": "1-2 hours",
+      "icon": "droplet",
+      "features": [
+        "Debris removal",
+        "Downpipe clearing",
+        "Gutter inspection",
+        "Minor repairs"
+      ],
+      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=800&h=600&fit=crop"
     }
   ],
   "serviceAreas": [
     {
-      "name": "Maroochydore",
-      "slug": "maroochydore-window-cleaning",
-      "description": "Comprehensive window cleaning services for Maroochydore residents and businesses"
+      "name": "Brisbane",
+      "slug": "brisbane",
+      "description": "Located in the heart of Brisbane, we're your go-to destination for premium window cleaning services."
     },
     {
-      "name": "Noosa",
-      "slug": "noosa-window-cleaning",
-      "description": "Professional window cleaning solutions for Noosa's residential and commercial properties"
+      "name": "Brisbane CBD",
+      "slug": "brisbane-cbd",
+      "description": "Serving the Brisbane CBD with exceptional window cleaning services."
     },
     {
-      "name": "Caloundra",
-      "slug": "caloundra-window-cleaning",
-      "description": "Expert window cleaning services covering all of Caloundra's diverse property types"
+      "name": "Surrounding Areas",
+      "slug": "surrounding-areas",
+      "description": "We proudly serve Brisbane and all surrounding suburbs with professional window cleaning services."
     }
   ],
   "team": [
     {
-      "name": "Anthony Rose",
-      "role": "Founder & Lead Technician",
-      "bio": "With 10 years of professional cleaning experience, Anthony leads Arose Window Cleaning with a commitment to quality and customer satisfaction.",
-      "image": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1",
+      "name": "Owner",
+      "role": "Founder & Lead Specialist",
+      "bio": "With over 10 years of experience, our founder established Arose Window Cleaning to bring world-class window cleaning services to Brisbane.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
       "specialties": [
-        "Residential Cleaning",
-        "High-Rise Techniques",
-        "Eco-Friendly Solutions"
+        "Management",
+        "High-Rise Access",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Senior Specialist",
+      "role": "Senior Team Member",
+      "bio": "Our senior specialist brings 8 years of experience and is known for delivering exceptional results on commercial properties.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "specialties": [
+        "Commercial",
+        "Solar Panels",
+        "Customer Care"
+      ]
+    },
+    {
+      "name": "Team Member",
+      "role": "Specialist",
+      "bio": "Passionate about window cleaning, bringing fresh ideas and excellent service to every client.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "specialties": [
+        "Residential",
+        "Pressure Washing",
+        "Reliability"
       ]
     }
   ],
   "testimonials": [
     {
-      "name": "Sarah Thompson",
-      "location": "Maroochydore",
-      "text": "Amazing service! My windows have never looked so clean. Highly recommended.",
+      "name": "Sarah M.",
+      "location": "Brisbane",
+      "text": "I've been using Arose Window Cleaning for years and wouldn't trust anyone else. The team are true professionals!",
       "rating": 5,
       "service": "Residential Window Cleaning",
-      "date": "2023-05-15"
+      "date": "2024-11"
     },
     {
-      "name": "Mike Roberts",
-      "location": "Noosa",
-      "text": "Professional, punctual, and delivered exceptional results for our office windows.",
+      "name": "David N.",
+      "location": "Brisbane CBD",
+      "text": "Finally found a window cleaner that delivers quality every time. Quick, professional, and great value.",
       "rating": 5,
       "service": "Commercial Window Cleaning",
-      "date": "2023-06-22"
+      "date": "2024-10"
     },
     {
-      "name": "Emma Clarke",
-      "location": "Caloundra",
-      "text": "Fantastic solar panel cleaning. Noticed an immediate improvement in energy output.",
+      "name": "Jessica W.",
+      "location": "Brisbane",
+      "text": "Arose Window Cleaning exceeded all my expectations. The team was professional and my windows have never looked better!",
       "rating": 5,
       "service": "Solar Panel Cleaning",
-      "date": "2023-07-10"
+      "date": "2024-09"
+    },
+    {
+      "name": "Amanda C.",
+      "location": "Brisbane",
+      "text": "Best window cleaning service in the area. Fair prices and great communication throughout.",
+      "rating": 5,
+      "service": "Residential Window Cleaning",
+      "date": "2024-11"
+    },
+    {
+      "name": "James B.",
+      "location": "Brisbane",
+      "text": "Called for an emergency clean before a party and they were there within the hour. Couldn't be happier!",
+      "rating": 5,
+      "service": "Gutter Cleaning",
+      "date": "2024-08"
+    },
+    {
+      "name": "Rachel G.",
+      "location": "Brisbane CBD",
+      "text": "Professional, reliable, and great attention to detail. Highly recommended!",
+      "rating": 5,
+      "service": "Pressure Washing",
+      "date": "2024-10"
     }
   ],
   "faq": [
     {
-      "question": "How often should I get my windows cleaned?",
-      "answer": "We recommend professional window cleaning every 3-6 months, depending on your location and environment."
+      "question": "How do I book an appointment?",
+      "answer": "You can book online through our website 24/7, call us on 0400 123 456 during business hours, or send us a message on social media."
     },
     {
-      "question": "Do you use eco-friendly cleaning solutions?",
-      "answer": "Yes, we use environmentally friendly, biodegradable cleaning solutions that are safe for your family and pets."
-    },
-    {
-      "question": "Are your technicians insured?",
-      "answer": "Absolutely. All our technicians are fully insured and undergo rigorous safety training."
-    },
-    {
-      "question": "How long does a typical window cleaning service take?",
-      "answer": "Residential cleaning usually takes 2-4 hours, while commercial jobs can vary based on property size."
+      "question": "What is your cancellation policy?",
+      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
     },
     {
       "question": "Do you offer free quotes?",
-      "answer": "Yes, we provide free, no-obligation quotes for all our window cleaning services."
+      "answer": "Yes! We offer complimentary quotes for all our services. This helps us understand your needs and provide an accurate price."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We primarily service Brisbane, Brisbane CBD, and surrounding suburbs in QLD. Contact us to confirm we cover your location."
+    },
+    {
+      "question": "Are you insured?",
+      "answer": "Yes, we are fully insured with $20 million public liability insurance. All our team members are trained and certified."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment is due on completion of the job."
+    },
+    {
+      "question": "How often should I get my windows cleaned?",
+      "answer": "For residential, we recommend every 3-6 months. For commercial properties, monthly or bi-weekly cleaning keeps your business looking professional."
+    },
+    {
+      "question": "Do you use eco-friendly products?",
+      "answer": "Yes! We use purified water and eco-friendly cleaning solutions that are safe for your family, pets, and the environment."
     }
   ],
   "about": {
-    "title": "Sunshine Coast's Premier Window Cleaning Specialists",
-    "story": "Founded in 2020, Arose Window Cleaning has been transforming properties across the Sunshine Coast with our professional, meticulous approach to window cleaning.",
-    "mission": "To provide exceptional window cleaning services that enhance the appearance and value of residential and commercial properties.",
+    "title": "Brisbane's Most Trusted Window Cleaning Since 2019",
+    "story": "Arose Window Cleaning was founded in 2019 with a simple mission: to bring world-class window cleaning services to Brisbane. After training with industry leaders, our founder returned to their hometown to create a business that combines technical excellence with local values.\n\nToday, our team shares a passion for delivering crystal-clear results for every client. We've built our reputation on reliability, expertise, and results that speak for themselves.\n\nWhether you need residential windows or a commercial high-rise, we're here to make your property shine.",
+    "mission": "Our mission is to deliver exceptional window cleaning services that exceed expectations, using eco-friendly methods and providing reliable service every time.",
     "values": [
       {
-        "title": "Quality Workmanship",
-        "description": "We are committed to quality workmanship."
+        "title": "Excellence",
+        "description": "We never stop improving. Our team regularly trains on the latest techniques and equipment to deliver the best results."
       },
       {
-        "title": "Customer Satisfaction",
-        "description": "We are committed to customer satisfaction."
+        "title": "Reliability",
+        "description": "We show up on time, every time. Our clients trust us because we deliver on our promises."
       },
       {
-        "title": "Environmental Responsibility",
-        "description": "We are committed to environmental responsibility."
-      },
-      {
-        "title": "Professional Integrity",
-        "description": "We are committed to professional integrity."
+        "title": "Safety",
+        "description": "Safety is our top priority. We're fully certified for working at heights and follow strict safety protocols."
       }
     ],
     "features": [
-      "10+ Years Combined Experience",
-      "Fully Insured Technicians",
-      "Eco-Friendly Solutions",
-      "Advanced Cleaning Techniques"
+      "Fully Licensed & Insured",
+      "Locally Owned Since 2019",
+      "Streak-Free Guarantee",
+      "Eco-Friendly Products",
+      "Free Quotes",
+      "Same Week Service Available"
     ]
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1502005229762-cf1the20d",
-      "alt": "Professional Window Cleaning",
+      "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 1",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1580130544977-da0d9f14e5a",
-      "alt": "Commercial Window Cleaning",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 2",
       "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1590856029620-9b5a4825d3",
-      "alt": "Solar Panel Cleaning",
-      "category": "Solar"
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 3",
+      "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1581579186913-45ac25414c",
-      "alt": "Window Cleaning Team",
-      "category": "Team"
+      "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 4",
+      "category": "Commercial"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76c7d1b3?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 5",
+      "category": "Residential"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=600&h=600&fit=crop",
+      "alt": "Window cleaning example 6",
+      "category": "Commercial"
     }
   ],
   "seo": {
-    "siteName": "Arose Window Cleaning",
-    "siteUrl": "https://arosecleaningqld.com.au",
-    "title": "Sunshine Coast Window Cleaning Experts | Arose Cleaning",
-    "description": "Professional window cleaning services in Sunshine Coast. Residential, commercial, and solar panel cleaning. Eco-friendly solutions, fully insured technicians.",
+    "siteName": "Arose Window Cleaning Brisbane",
+    "siteUrl": "https://arose-window-cleaning.vercel.app",
+    "title": "Arose Window Cleaning | Best Window Cleaning Brisbane | Brisbane Window Cleaners",
+    "description": "Brisbane's top-rated window cleaning service. Expert residential and commercial window cleaning, solar panel cleaning, pressure washing. Streak-free guarantee. Book online today!",
     "keywords": [
-      "window cleaning",
-      "Sunshine Coast window cleaning",
-      "residential window cleaning",
-      "commercial window cleaning",
-      "solar panel cleaning"
+      "window cleaning brisbane",
+      "window cleaners brisbane",
+      "best window cleaning brisbane",
+      "brisbane window cleaning",
+      "commercial window cleaning brisbane",
+      "residential window cleaning brisbane",
+      "solar panel cleaning brisbane",
+      "pressure washing brisbane",
+      "gutter cleaning brisbane",
+      "window cleaning near me"
     ]
   },
   "schema": {
@@ -226,14 +345,26 @@
     "priceRange": "$$"
   },
   "colors": {
-    "primary": "#2196F3",
-    "primaryLight": "#64B5F6",
-    "secondary": "#F44336",
-    "accent": "#4CAF50"
+    "primary": "#0369a1",
+    "primaryLight": "#0ea5e9",
+    "secondary": "#1e3a5f",
+    "accent": "#22c55e"
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+  },
+  "copy": {
+    "heroSubtitle": "Professional window cleaning services with crystal clear results guaranteed.",
+    "servicesSubtitle": "From residential homes to commercial high-rises, our expert team delivers exceptional results every time.",
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "Experienced professionals dedicated to delivering sparkling clean windows.",
+    "ctaTitle": "Ready for Crystal Clear Windows?",
+    "ctaSubtitle": "Get a free quote today and experience the Arose Window Cleaning difference."
   },
   "cta": {
-    "primary": "Get a Free Quote",
+    "primary": "Get Free Quote",
     "secondary": "Call Now",
-    "consultation": "Free Consultation"
+    "consultation": "Free Quote"
   }
 }
