@@ -188,22 +188,22 @@
   },
   "gallery": [
     {
-      "imageUrl": "https://images.unsplash.com/photo-1502005229762-cf1the20d",
+      "image": "https://images.unsplash.com/photo-1502005229762-cf1the20d",
       "alt": "Professional Window Cleaning",
       "category": "Residential"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1580130544977-da0d9f14e5a",
+      "image": "https://images.unsplash.com/photo-1580130544977-da0d9f14e5a",
       "alt": "Commercial Window Cleaning",
       "category": "Commercial"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1590856029620-9b5a4825d3",
+      "image": "https://images.unsplash.com/photo-1590856029620-9b5a4825d3",
       "alt": "Solar Panel Cleaning",
       "category": "Solar"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1581579186913-45ac25414c",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac25414c",
       "alt": "Window Cleaning Team",
       "category": "Team"
     }
