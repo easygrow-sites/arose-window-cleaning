@@ -1,14 +1,14 @@
 {
   "business": {
     "name": "Arose Window Cleaning",
-    "tagline": "Brisbane's Premier Window Cleaning - Crystal Clear Results Guaranteed",
-    "phone": "0400 123 456",
-    "email": "info@arosewindowcleaning.com.au",
-    "address": "123 Main Street, Brisbane",
-    "suburb": "Brisbane",
-    "city": "Brisbane",
+    "tagline": "Sunshine Coast's Premier Window Cleaning - Crystal Clear Results Guaranteed",
+    "phone": "0406 880 311",
+    "email": "anthonyrose.win@gmail.com",
+    "address": "Sunshine Coast",
+    "suburb": "Sunshine Coast",
+    "city": "Sunshine Coast",
     "state": "QLD",
-    "postcode": "4000",
+    "postcode": "4551",
     "country": "Australia",
     "service": "Window Cleaning",
     "serviceSlug": "window-cleaning",
@@ -44,7 +44,7 @@
         "Screen cleaning included",
         "Track & sill cleaning"
       ],
-      "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&h=600&fit=crop"
     },
     {
       "title": "Commercial Window Cleaning",
@@ -60,7 +60,7 @@
         "Regular maintenance plans",
         "Safety certified"
       ],
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1596263373298-1d12c8ae2597?w=800&h=600&fit=crop"
     },
     {
       "title": "High-Rise Window Cleaning",
@@ -108,7 +108,7 @@
         "Building exteriors",
         "Mold & mildew removal"
       ],
-      "image": "https://images.unsplash.com/photo-1558618047-3c8c76c7d1b3?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1622372738946-62e02505feb3?w=800&h=600&fit=crop"
     },
     {
       "title": "Gutter Cleaning",
@@ -124,45 +124,60 @@
         "Gutter inspection",
         "Minor repairs"
       ],
-      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=800&h=600&fit=crop"
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=600&fit=crop"
     }
   ],
   "serviceAreas": [
     {
-      "name": "Brisbane",
-      "slug": "brisbane",
-      "description": "Located in the heart of Brisbane, we're your go-to destination for premium window cleaning services."
+      "name": "Sunshine Coast",
+      "slug": "sunshine-coast",
+      "description": "Proudly serving the entire Sunshine Coast region with professional window cleaning services."
     },
     {
-      "name": "Brisbane CBD",
-      "slug": "brisbane-cbd",
-      "description": "Serving the Brisbane CBD with exceptional window cleaning services."
+      "name": "Caloundra",
+      "slug": "caloundra",
+      "description": "Expert window cleaning services in Caloundra and surrounding suburbs."
     },
     {
-      "name": "Surrounding Areas",
-      "slug": "surrounding-areas",
-      "description": "We proudly serve Brisbane and all surrounding suburbs with professional window cleaning services."
+      "name": "Maroochydore",
+      "slug": "maroochydore",
+      "description": "Professional window cleaning for homes and businesses in Maroochydore."
+    },
+    {
+      "name": "Noosa",
+      "slug": "noosa",
+      "description": "Premium window cleaning services for the Noosa area."
+    },
+    {
+      "name": "Mooloolaba",
+      "slug": "mooloolaba",
+      "description": "Crystal clear windows for Mooloolaba homes and businesses."
+    },
+    {
+      "name": "Nambour",
+      "slug": "nambour",
+      "description": "Reliable window cleaning services in Nambour and hinterland areas."
     }
   ],
   "team": [
     {
-      "name": "Owner",
+      "name": "Anthony Rose",
       "role": "Founder & Lead Specialist",
-      "bio": "With over 10 years of experience, our founder established Arose Window Cleaning to bring world-class window cleaning services to Brisbane.",
-      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "bio": "With years of experience in the industry, Anthony founded Arose Window Cleaning to bring professional, reliable window cleaning services to the Sunshine Coast.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
       "specialties": [
-        "Management",
-        "High-Rise Access",
+        "Commercial",
+        "High-Rise",
         "Quality Assurance"
       ]
     },
     {
       "name": "Senior Specialist",
       "role": "Senior Team Member",
-      "bio": "Our senior specialist brings 8 years of experience and is known for delivering exceptional results on commercial properties.",
-      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "bio": "Our senior specialist brings extensive experience and is known for delivering exceptional results on both residential and commercial properties.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
       "specialties": [
-        "Commercial",
+        "Residential",
         "Solar Panels",
         "Customer Care"
       ]
@@ -170,11 +185,11 @@
     {
       "name": "Team Member",
       "role": "Specialist",
-      "bio": "Passionate about window cleaning, bringing fresh ideas and excellent service to every client.",
-      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "bio": "Passionate about delivering spotless results, bringing excellent service to every Sunshine Coast client.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
       "specialties": [
-        "Residential",
         "Pressure Washing",
+        "Gutter Cleaning",
         "Reliability"
       ]
     }
@@ -182,7 +197,7 @@
   "testimonials": [
     {
       "name": "Sarah M.",
-      "location": "Brisbane",
+      "location": "Caloundra",
       "text": "I've been using Arose Window Cleaning for years and wouldn't trust anyone else. The team are true professionals!",
       "rating": 5,
       "service": "Residential Window Cleaning",
@@ -190,15 +205,15 @@
     },
     {
       "name": "David N.",
-      "location": "Brisbane CBD",
-      "text": "Finally found a window cleaner that delivers quality every time. Quick, professional, and great value.",
+      "location": "Maroochydore",
+      "text": "Finally found a window cleaner on the Sunshine Coast that delivers quality every time. Quick, professional, and great value.",
       "rating": 5,
       "service": "Commercial Window Cleaning",
       "date": "2024-10"
     },
     {
       "name": "Jessica W.",
-      "location": "Brisbane",
+      "location": "Noosa",
       "text": "Arose Window Cleaning exceeded all my expectations. The team was professional and my windows have never looked better!",
       "rating": 5,
       "service": "Solar Panel Cleaning",
@@ -206,15 +221,15 @@
     },
     {
       "name": "Amanda C.",
-      "location": "Brisbane",
-      "text": "Best window cleaning service in the area. Fair prices and great communication throughout.",
+      "location": "Mooloolaba",
+      "text": "Best window cleaning service on the Sunshine Coast. Fair prices and great communication throughout.",
       "rating": 5,
       "service": "Residential Window Cleaning",
       "date": "2024-11"
     },
     {
       "name": "James B.",
-      "location": "Brisbane",
+      "location": "Buderim",
       "text": "Called for an emergency clean before a party and they were there within the hour. Couldn't be happier!",
       "rating": 5,
       "service": "Gutter Cleaning",
@@ -222,8 +237,8 @@
     },
     {
       "name": "Rachel G.",
-      "location": "Brisbane CBD",
-      "text": "Professional, reliable, and great attention to detail. Highly recommended!",
+      "location": "Nambour",
+      "text": "Professional, reliable, and great attention to detail. Highly recommended for anyone on the Sunshine Coast!",
       "rating": 5,
       "service": "Pressure Washing",
       "date": "2024-10"
@@ -232,31 +247,31 @@
   "faq": [
     {
       "question": "How do I book an appointment?",
-      "answer": "You can book online through our website 24/7, call us on 0400 123 456 during business hours, or send us a message on social media."
+      "answer": "You can book online through our website 24/7, call us on 0406 880 311 during business hours, or send us a message on social media."
     },
     {
-      "question": "What is your cancellation policy?",
-      "answer": "We require 24 hours notice for cancellations or rescheduling. Late cancellations may incur a fee. We understand emergencies happen and will always work with you."
+      "question": "What areas do you service?",
+      "answer": "We service the entire Sunshine Coast region including Caloundra, Maroochydore, Mooloolaba, Noosa, Nambour, and all surrounding suburbs. We also service Brisbane for larger commercial jobs."
     },
     {
       "question": "Do you offer free quotes?",
       "answer": "Yes! We offer complimentary quotes for all our services. This helps us understand your needs and provide an accurate price."
     },
     {
-      "question": "What areas do you service?",
-      "answer": "We primarily service Brisbane, Brisbane CBD, and surrounding suburbs in QLD. Contact us to confirm we cover your location."
-    },
-    {
       "question": "Are you insured?",
       "answer": "Yes, we are fully insured with $20 million public liability insurance. All our team members are trained and certified."
+    },
+    {
+      "question": "How often should I get my windows cleaned?",
+      "answer": "For residential, we recommend every 3-6 months depending on your location. Coastal properties may need more frequent cleaning due to salt spray. For commercial properties, monthly or bi-weekly cleaning keeps your business looking professional."
     },
     {
       "question": "What payment methods do you accept?",
       "answer": "We accept all major credit cards, EFTPOS, bank transfer, and cash. Payment is due on completion of the job."
     },
     {
-      "question": "How often should I get my windows cleaned?",
-      "answer": "For residential, we recommend every 3-6 months. For commercial properties, monthly or bi-weekly cleaning keeps your business looking professional."
+      "question": "Do you clean solar panels?",
+      "answer": "Yes! Dirty solar panels can lose up to 30% efficiency. We use specialised equipment and purified water to safely clean your panels without damage."
     },
     {
       "question": "Do you use eco-friendly products?",
@@ -264,26 +279,26 @@
     }
   ],
   "about": {
-    "title": "Brisbane's Most Trusted Window Cleaning Since 2019",
-    "story": "Arose Window Cleaning was founded in 2019 with a simple mission: to bring world-class window cleaning services to Brisbane. After training with industry leaders, our founder returned to their hometown to create a business that combines technical excellence with local values.\n\nToday, our team shares a passion for delivering crystal-clear results for every client. We've built our reputation on reliability, expertise, and results that speak for themselves.\n\nWhether you need residential windows or a commercial high-rise, we're here to make your property shine.",
+    "title": "Sunshine Coast's Most Trusted Window Cleaning",
+    "story": "Arose Window Cleaning was founded with a simple mission: to bring professional, reliable window cleaning services to the Sunshine Coast. After years of experience in the industry, we know what it takes to deliver crystal-clear results every time.\n\nToday, our team serves homes and businesses across the entire Sunshine Coast region, from Caloundra to Noosa. We've built our reputation on reliability, quality workmanship, and results that speak for themselves.\n\nWhether you need residential windows or a commercial high-rise, we're here to make your property shine.",
     "mission": "Our mission is to deliver exceptional window cleaning services that exceed expectations, using eco-friendly methods and providing reliable service every time.",
     "values": [
       {
-        "title": "Excellence",
-        "description": "We never stop improving. Our team regularly trains on the latest techniques and equipment to deliver the best results."
+        "title": "Quality",
+        "description": "We never cut corners. Every job gets our full attention and we're not happy until your windows are crystal clear."
       },
       {
         "title": "Reliability",
-        "description": "We show up on time, every time. Our clients trust us because we deliver on our promises."
+        "description": "We show up on time, every time. Our Sunshine Coast clients trust us because we deliver on our promises."
       },
       {
         "title": "Safety",
-        "description": "Safety is our top priority. We're fully certified for working at heights and follow strict safety protocols."
+        "description": "Safety is our top priority. We're fully certified and insured, following strict safety protocols on every job."
       }
     ],
     "features": [
       "Fully Licensed & Insured",
-      "Locally Owned Since 2019",
+      "Locally Owned & Operated",
       "Streak-Free Guarantee",
       "Eco-Friendly Products",
       "Free Quotes",
@@ -292,12 +307,12 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&h=600&fit=crop",
       "alt": "Window cleaning example 1",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1596263373298-1d12c8ae2597?w=600&h=600&fit=crop",
       "alt": "Window cleaning example 2",
       "category": "Commercial"
     },
@@ -312,32 +327,32 @@
       "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1558618047-3c8c76c7d1b3?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1622372738946-62e02505feb3?w=600&h=600&fit=crop",
       "alt": "Window cleaning example 5",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1513880989635-6eb491ce7f5b?w=600&h=600&fit=crop",
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&h=600&fit=crop",
       "alt": "Window cleaning example 6",
       "category": "Commercial"
     }
   ],
   "seo": {
-    "siteName": "Arose Window Cleaning Brisbane",
+    "siteName": "Arose Window Cleaning Sunshine Coast",
     "siteUrl": "https://arose-window-cleaning.vercel.app",
-    "title": "Arose Window Cleaning | Best Window Cleaning Brisbane | Brisbane Window Cleaners",
-    "description": "Brisbane's top-rated window cleaning service. Expert residential and commercial window cleaning, solar panel cleaning, pressure washing. Streak-free guarantee. Book online today!",
+    "title": "Arose Window Cleaning | Sunshine Coast Window Cleaners | Professional Window Cleaning",
+    "description": "Sunshine Coast's top-rated window cleaning service. Expert residential and commercial window cleaning, solar panel cleaning, pressure washing. Streak-free guarantee. Servicing Caloundra, Maroochydore, Noosa & more. Call 0406 880 311.",
     "keywords": [
-      "window cleaning brisbane",
-      "window cleaners brisbane",
-      "best window cleaning brisbane",
-      "brisbane window cleaning",
-      "commercial window cleaning brisbane",
-      "residential window cleaning brisbane",
-      "solar panel cleaning brisbane",
-      "pressure washing brisbane",
-      "gutter cleaning brisbane",
-      "window cleaning near me"
+      "window cleaning sunshine coast",
+      "window cleaners sunshine coast",
+      "sunshine coast window cleaning",
+      "window cleaning caloundra",
+      "window cleaning maroochydore",
+      "window cleaning noosa",
+      "solar panel cleaning sunshine coast",
+      "pressure washing sunshine coast",
+      "gutter cleaning sunshine coast",
+      "commercial window cleaning sunshine coast"
     ]
   },
   "schema": {
@@ -351,14 +366,14 @@
     "accent": "#22c55e"
   },
   "images": {
-    "hero": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=1920&h=1080&fit=crop",
-    "about": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+    "hero": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1920&h=1080&fit=crop",
+    "about": "https://images.unsplash.com/photo-1596263373298-1d12c8ae2597?w=800&h=600&fit=crop"
   },
   "copy": {
-    "heroSubtitle": "Professional window cleaning services with crystal clear results guaranteed.",
+    "heroSubtitle": "Professional window cleaning services across the Sunshine Coast with crystal clear results guaranteed.",
     "servicesSubtitle": "From residential homes to commercial high-rises, our expert team delivers exceptional results every time.",
     "teamTitle": "Meet Our Team",
-    "teamSubtitle": "Experienced professionals dedicated to delivering sparkling clean windows.",
+    "teamSubtitle": "Experienced professionals dedicated to delivering sparkling clean windows across the Sunshine Coast.",
     "ctaTitle": "Ready for Crystal Clear Windows?",
     "ctaSubtitle": "Get a free quote today and experience the Arose Window Cleaning difference."
   },
