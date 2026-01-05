@@ -44,7 +44,7 @@
         "Screen cleaning included",
         "Track & sill cleaning"
       ],
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/nzmkak.png"
     },
     {
       "title": "Commercial Window Cleaning",
@@ -60,7 +60,7 @@
         "Regular maintenance plans",
         "Safety certified"
       ],
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/7h7mdj.png"
     },
     {
       "title": "High-Rise Window Cleaning",
@@ -76,7 +76,7 @@
         "Safety compliant",
         "Regular schedules available"
       ],
-      "image": "https://images.unsplash.com/photo-1545324418-cc6e8fc7c3be?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/ptkcec.png"
     },
     {
       "title": "Solar Panel Cleaning",
@@ -92,7 +92,7 @@
         "No harsh chemicals",
         "Before/after inspection"
       ],
-      "image": "https://images.unsplash.com/photo-1509391111029-3448ae489d6c?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/7s9a4m.png"
     },
     {
       "title": "Pressure Washing",
@@ -108,7 +108,7 @@
         "Building exteriors",
         "Mold & mildew removal"
       ],
-      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/0xn5t9.png"
     },
     {
       "title": "Gutter Cleaning",
@@ -124,7 +124,7 @@
         "Gutter inspection",
         "Minor repairs"
       ],
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      "image": "https://files.catbox.moe/hvbka9.png"
     }
   ],
   "serviceAreas": [
@@ -307,34 +307,34 @@
   },
   "gallery": [
     {
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+      "image": "https://files.catbox.moe/nzmkak.png",
       "alt": "Residential window cleaning",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop",
+      "image": "https://files.catbox.moe/7h7mdj.png",
       "alt": "Commercial office windows",
       "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1545324418-cc6e8fc7c3be?w=600&h=600&fit=crop",
+      "image": "https://files.catbox.moe/ptkcec.png",
       "alt": "High-rise building windows",
       "category": "Commercial"
     },
     {
-      "image": "https://images.unsplash.com/photo-1509391111029-3448ae489d6c?w=600&h=600&fit=crop",
+      "image": "https://files.catbox.moe/7s9a4m.png",
       "alt": "Solar panel cleaning",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=600&fit=crop",
-      "alt": "Home exterior cleaning",
+      "image": "https://files.catbox.moe/frrnn3.png",
+      "alt": "Luxury home windows",
       "category": "Residential"
     },
     {
-      "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=600&fit=crop",
-      "alt": "Clean home windows",
-      "category": "Residential"
+      "image": "https://files.catbox.moe/v1owqs.png",
+      "alt": "Clean shopfront windows",
+      "category": "Commercial"
     }
   ],
   "seo": {
@@ -366,8 +366,8 @@
     "accent": "#22c55e"
   },
   "images": {
-    "hero": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&h=1080&fit=crop",
-    "about": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+    "hero": "https://files.catbox.moe/uprgg4.png",
+    "about": "https://files.catbox.moe/frrnn3.png"
   },
   "copy": {
     "heroSubtitle": "Professional window cleaning services across the Sunshine Coast with crystal clear results guaranteed.",
