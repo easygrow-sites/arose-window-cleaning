@@ -1,8 +1,8 @@
 {
   "business": {
-    "name": "Arose Window Cleaning",
+    "name": "Arose Window Cleaning ",
     "tagline": "Sunshine Coast's Premier Window Cleaning - Crystal Clear Results Guaranteed",
-    "phone": "0406 880 311",
+    "phone": "0406880311",
     "email": "anthonyrose.win@gmail.com",
     "address": "Sunshine Coast",
     "suburb": "Sunshine Coast",
@@ -12,7 +12,6 @@
     "country": "Australia",
     "service": "Window Cleaning",
     "serviceSlug": "window-cleaning",
-    "abn": "12 345 678 901",
     "established": 2019,
     "openingHours": {
       "monday": "7:00 AM - 5:00 PM",
@@ -308,40 +307,40 @@
   "gallery": [
     {
       "image": "https://files.catbox.moe/nzmkak.png",
-      "alt": "Residential window cleaning",
+      "alt": "Residential Window Cleaning",
       "category": "Residential"
     },
     {
       "image": "https://files.catbox.moe/7h7mdj.png",
-      "alt": "Commercial office windows",
-      "category": "Commercial"
+      "alt": "Commercial Window Cleaning",
+      "category": "Residential"
     },
     {
       "image": "https://files.catbox.moe/ptkcec.png",
-      "alt": "High-rise building windows",
-      "category": "Commercial"
+      "alt": "High-Rise Window Cleaning",
+      "category": "Residential"
     },
     {
       "image": "https://files.catbox.moe/7s9a4m.png",
-      "alt": "Solar panel cleaning",
-      "category": "Residential"
+      "alt": "Solar Panel Cleaning",
+      "category": "Commercial"
     },
     {
-      "image": "https://files.catbox.moe/frrnn3.png",
-      "alt": "Luxury home windows",
-      "category": "Residential"
+      "image": "https://files.catbox.moe/0xn5t9.png",
+      "alt": "Pressure Washing",
+      "category": "Commercial"
     },
     {
-      "image": "https://files.catbox.moe/v1owqs.png",
-      "alt": "Clean shopfront windows",
+      "image": "https://files.catbox.moe/hvbka9.png",
+      "alt": "Gutter Cleaning",
       "category": "Commercial"
     }
   ],
   "seo": {
-    "siteName": "Arose Window Cleaning Sunshine Coast",
+    "siteName": "Arose Window Cleaning  Sunshine Coast",
     "siteUrl": "https://arose-window-cleaning.vercel.app",
-    "title": "Arose Window Cleaning | Sunshine Coast Window Cleaners | Professional Window Cleaning",
-    "description": "Sunshine Coast's top-rated window cleaning service. Expert residential and commercial window cleaning, solar panel cleaning, pressure washing. Streak-free guarantee. Servicing Caloundra, Maroochydore, Noosa & more. Call 0406 880 311.",
+    "title": "Arose Window Cleaning  | Window cleaning Sunshine Coast | Professional Window cleaning",
+    "description": "Sunshine Coast's top-rated window cleaning service. Expert residential and commercial window cleaning. Servicing Sunshine Coast & surrounding areas. Call 0406880311.",
     "keywords": [
       "window cleaning sunshine coast",
       "window cleaners sunshine coast",
